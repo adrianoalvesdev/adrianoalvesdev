@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adrianoalvesdev, begginer in the area of programing
+- 👀 I’m interested in projects, begginer oportunities and share knowledge
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on begginer projects
+- 📫 How to reach me: adrianoalvesni@icloud.com
